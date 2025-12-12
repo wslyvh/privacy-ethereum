@@ -14,10 +14,12 @@
     "@tanstack/react-query": "^5",
     "dayjs": "^1",
     "lucide-react": "^0.544.0",
+    "next": "^15",
+    "next-plausible": "^3",
     "react": "^19",
     "react-dom": "^19",
-    "next": "^15",
-    "next-plausible": "^3"
+    "react-is": "^19",
+    "recharts": "^3"
   },
   "devDependencies": {
     "typescript": "^5",
